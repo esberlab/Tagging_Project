@@ -1,2 +1,2 @@
 # Tagging_Project
- Matlab script to prevent human errors when placing rats in conditioning boxes. 
+ Matlab script to minimize human errors when placing rats in conditioning boxes. 
